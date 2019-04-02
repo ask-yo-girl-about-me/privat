@@ -1,1 +1,10 @@
 https://romsmode.com/roms/atari-2600/pac-man-atari-pal-351106
+
+
+
+#!/bin/bash 
+echo "Hello World!"
+
+chmod +x runme.sh
+
+./runme.sh
